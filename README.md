@@ -8,7 +8,7 @@ This repository hosts a machine learning project focused on emotion detection in
 
 - **analysis.ipynb**: Jupyter Notebook containing comprehensive data analysis, preprocessing steps, and LSTM model training.
 - **analysis_app.py**: Python script for a Streamlit web application that allows users to input text and predicts the associated emotion.
-- **data/**: Directory containing the dataset used for training and analysis.
+- **dataset/**: Directory containing the dataset used for training and analysis.
 - **models/**: Folder storing the trained LSTM model (`model.keras`) and tokenizer (`tokenizer.pickle`).
 - **requirements.txt**: File listing all Python libraries and dependencies required to run the project.
 - **LICENSE**: License file governing the use and distribution of the project.
@@ -35,7 +35,7 @@ The emotion detection model is built using TensorFlow and Keras, employing an LS
 
 ## Contributors
 
-- [Your Name](link-to-your-github-profile) - Project Lead & Developer
+- [Muhammad Ansab Sultan](https://github.com/Ansab-Sultan) - Project Lead & Developer
 
 Contributions to this project are welcomed through issue reporting and pull requests. Your feedback and enhancements are highly valued.
 
